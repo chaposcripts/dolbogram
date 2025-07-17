@@ -1,6 +1,10 @@
 # dolbogram
 Dolbogram is a simle lua telegram bot api library
 
+## Installation
+1. download latest version from releases
+2. put `dolbogram` folder to `package.path` path
+
 ## Usage example
 ```lua
 local Degrogram = require('degrogram');
